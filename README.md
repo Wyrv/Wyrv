@@ -1,12 +1,24 @@
 ### 👋
 
-*work in progress*
+Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologia desde 2010.
 
-## welcome 
+💬 Área de Atuação: Back-end. <BR>
+📚 Experiência com a criação e consumo APIS RESTfuls/SOAP. <BR>
+📚 Experiência com a integração de softwares de CRM e ERP. <BR>
+📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR>
+
+<br>
+
+<img align="left" alt="GIF" src="https://github.com/Wyrv/Wyrv/blob/main/gifs/eye_saur.gif" width="80" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Wyrv}.${435982003})
+
+<br>
+
 <div style="display: inline_block">
   <a href="https://github.com/Wyrv">
   <img src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyrv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wyrv&layout=compact&theme=dracula"/>
 </div>
   
   ##
