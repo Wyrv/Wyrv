@@ -5,7 +5,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 💬 Área de Atuação: Back-end. <BR>
 📚 Experiência com a criação e consumo APIS RESTfuls/SOAP. <BR>
 📚 Experiência com a integração de softwares de CRM e ERP. <BR>
-📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR>
+📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR><BR>
 📒 Autodidata, e sempre faminto por conhecimento.
 
 <br>
@@ -31,6 +31,8 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
   <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SHELL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="CENTOS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg"">
+
  </div>
   
   ##
