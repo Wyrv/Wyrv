@@ -6,6 +6,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 📚 Experiência com a criação e consumo APIS RESTfuls/SOAP. <BR>
 📚 Experiência com a integração de softwares de CRM e ERP. <BR>
 📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR>
+📒 Autodidata, e sempre faminto por conhecimento.
 
 <br>
 
@@ -25,8 +26,11 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
   ##
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/c/c.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/php/php.svg">
+  <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SHELL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
  </div>
   
   ##
