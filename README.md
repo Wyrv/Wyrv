@@ -3,7 +3,7 @@
 Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologia desde 2010.
 
 💬 Área de Atuação: Back-end. <BR>
-📚 Experiência com a criação e consumo APIS RESTfuls/SOAP. <BR>
+📚 Experiência com a criação e consumo APIs REST/SOAP. <BR>
 📚 Experiência com a integração de softwares de CRM e ERP. <BR>
 📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR><BR>
 📒 Autodidata, e sempre faminto por conhecimento.
