@@ -17,15 +17,24 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <br>
 
 <div style="display: inline_block">
+  <a href="https://github.com/Wyrv">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyrv&layout=compact&langs_count=3&theme=dracula"/>
+</div>
+
+<!-- INI
+<div style="display: inline_block">
  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyrv&langs_count=3&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyrv&layout=compact&theme=tokyonight"
   height="140em"
  />
+
  <img  
   src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
   height="140em"
  />
 </div>
+FI -->
   
   ##
   
