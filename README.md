@@ -17,7 +17,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="20" alt="Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>    
 
-| <a href="https://github.com/Wyrv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Wyrv's github stats" /></a> | <a href="https://github.com/wyrv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyrv&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/Wyrv"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Wyrv's github stats" /></a> | <a href="https://github.com/wyrv"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyrv&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div> 
