@@ -15,10 +15,17 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <code><img height="20" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"></code>
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="20" alt="Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>    
+<code><img height="20" alt="Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>    
 
-| <a href="https://github.com/Wyrv"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wyrv&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Wyrv's github stats" /></a> | <a href="https://github.com/wyrv"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyrv&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="left"> 
+<a href="https://github.com/Wyrv/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wyrv&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Wyrv's Language stats" />
+</a>
+<a href="https://github.com/Wyrv/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wyrv&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Wyrv's Github stats" />
+</a>
+</div>
 
 <div> 
   <a href = "mailto:contato@v.araujo1989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
