@@ -8,7 +8,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 📚 Experiência com a criação e consumo APIs REST/SOAP. <BR>
 📚 Experiência com a integração de softwares de CRM e ERP. <BR>
 📚 Experiência com sistemas de telefonia VoIP (A2billing, Asterisk, Freeswitch). <BR><BR>
-📒 Autodidata, e sempre faminto por conhecimento.
+📒 Autodidata, e sempre faminto por conhecimento. (Atualmente aprendendo Rust)
 
 <code><img height="20" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
 <code><img height="20" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
