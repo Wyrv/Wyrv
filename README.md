@@ -18,6 +18,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <code><img height="20" alt="Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
 <code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>    
 
+<!-- 
 <div align="left"> 
 <a href="https://github.com/Wyrv/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wyrv&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Wyrv's Language stats" />
@@ -25,6 +26,13 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <a href="https://github.com/Wyrv/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wyrv&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Wyrv's Github stats" />
 </a>
+-->
+  
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyrv&langs_count=10&layout=compact&theme=tokyonight"
+height="140em"
+/>
+  
 </div>
 
 <div> 
