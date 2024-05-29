@@ -16,7 +16,7 @@ Olá, me chamo **Vinícios**, sou desenvolvedor desde 2018, e atuo com tecnologi
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="20" alt="Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
-<code><img height="20" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></code>    
+<code><img height="20" alt="Rust" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg"></code>    
 
 <!-- 
 <div align="left"> 
